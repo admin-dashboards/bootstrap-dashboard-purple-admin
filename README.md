@@ -4,6 +4,10 @@
 
 <br />
 
+> **In love with this dashboard?** Check out the [open-source version coded in Flask](https://github.com/app-generator/flask-dashboard-purpleadmin). **Features:** SQLite Database, Session-Based Authentication, Flat Html converted to Jinja2, clean code-base. 
+
+<br />
+
 ![Dashboard Purple Admin - Free Responsive Admin Template.](https://raw.githubusercontent.com/admin-dashboards/static/master/bootstrap-dashboard-purple-admin-intro.gif)
 
 <br />
